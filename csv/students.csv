@@ -1,0 +1,43 @@
+id,image,firstname,middlename,lastname,email,date_of_birth,gender,phone,address,state_of_origin,local_govt,next_of_kin,jamb_score,admission_status
+1,,Noami,Ada,Tetteh,noami@gmail.com,1990-10-28,male,242569545,"Accra
+East Legon Hills",Delta State,Isoko North,Donald Mensah,100,undecided
+2,,Kwame,Kusi,Owusu,kwame.owusu1@gmail.com,1990-10-28,Male,242091252,Cape Coast,Abia,Arochukwu,Benjamin Quaye,240,undecided
+3,,Kofi,Amu,Frimpong,kofi.frimpong2@gmail.com,1990-10-28,Male,248823651,Takoradi,Abia,Arochukwu,Abena Arthur,221,undecided
+4,,Kojo,Ohui,Owusu,kojo.owusu3@gmail.com,1990-10-28,Male,245923783,Takoradi,Adamawa State,Gombi,Prince Addo,237,admitted
+5,,Yaw,Aseidu,Quaye,yaw.quaye4@gmail.com,1990-10-28,Male,244120842,Takoradi,Adamawa State,Gombi,Joyce Ofori,247,admitted
+6,,Kwabena,Kuku,Acheampong,kwabena.acheampong5@gmail.com,1990-10-28,Male,243008331,Cape Coast,Adamawa State,Gombi,Joyce Antwi,346,undecided
+7,,Ama,Mansa,Nyarko,ama.nyarko6@gmail.com,1990-10-28,Female,245295151,Cape Coast,Bayelsa State,Ekeremor,Kojo Asare,328,admitted
+8,,Akosua,Baaba,Kwarteng,akosua.kwarteng7@gmail.com,1990-10-28,Female,241849880,Cape Coast,Bayelsa State,Ekeremor,Bernice Addo,248,undecided
+9,,Abena,Serwaa,Appiah,abena.appiah8@gmail.com,1990-10-28,Female,246820361,Tamale,Bayelsa State,Ekeremor,Eric Boateng,178,undecided
+10,,Adwoa,Manu,Acheampong,adwoa.acheampong9@gmail.com,1990-10-28,Female,246057601,Cape Coast,Bayelsa State,Ekeremor,Nana Kwarteng,264,admitted
+11,,Efua,Nyaniba,Nyarko,efua.nyarko10@gmail.com,1990-10-28,Female,249724529,Tamale,Bayelsa State,Ekeremor,Patience Acheampong,258,admitted
+12,,Nana,Kweku,Appiah,nana.appiah11@gmail.com,1990-10-28,Male,242587602,Takoradi,Bayelsa State,Ekeremor,Kojo Owusu,239,undecided
+13,,Yaw,Adjei,Tetteh,yaw.tetteh12@gmail.com,1990-10-28,Male,248564856,Cape Coast,Bayelsa State,Ekeremor,Mabel Mensah,130,undecided
+14,,Fiifi,Nsaiba,Quaye,fiifi.quaye13@gmail.com,1999-12-14,Male,246706883,Kumasi,Benue State,Konshisha,Yaw Agyeman,207,undecided
+15,,Esi,Adutwum,Mensah,esi.mensah14@gmail.com,2005-11-17,Female,247892335,Cape Coast,Benue State,Konshisha,Linda Asare,196,undecided
+16,,Mawuli,Bobo,Arthur,mawuli.arthur15@gmail.com,2001-06-18,Male,241242856,Ho,Benue State,Konshisha,Stephen Owusu,306,undecided
+17,,Selorm,Eyram,Darko,selorm.darko16@gmail.com,2001-07-09,Male,241063693,Kumasi,Benue State,Konshisha,Joyce Mensah,183,undecided
+18,,Elorm,Ama,Darko,elorm.darko17@gmail.com,2003-04-24,Male,246492262,Accra,Benue State,Konshisha,Fiifi Quaye,129,undecided
+19,,Richmond,Ekow,Darko,richmond.darko18@gmail.com,2000-09-11,Male,243874985,Tamale,Benue State,Konshisha,Mercy Nyarko,247,undecided
+20,,Bernice,Baaba,Quaye,bernice.quaye19@gmail.com,2002-11-20,Female,242471226,Takoradi,Benue State,Konshisha,Linda Amoah,337,admitted
+21,,Patience,Afua,Ofori,patience.ofori20@gmail.com,1998-08-04,Female,242163558,Kumasi,Benue State,Konshisha,Benjamin Frimpong,220,admitted
+22,,Joseph,Kofi,Nyarko,joseph.nyarko21@gmail.com,2001-03-28,Male,249511884,Accra,Benue State,Konshisha,Eric Frimpong,201,undecided
+23,,Michael,kofi,Baah,michael.baah22@gmail.com,2006-03-26,Male,244154626,Takoradi,Benue State,Konshisha,Elorm Nyarko,282,undecided
+24,,Emmanuel,Kwesi,Acheampong,emmanuel.acheampong23@gmail.com,2004-12-23,Male,241414546,Accra,FCT,Abaji,Nana Baah,295,undecided
+25,,Samuel,Kwadwo,Arthur,samuel.arthur24@gmail.com,2002-12-19,Male,241277209,Cape Coast,FCT,Abaji,Kwame Acheampong,185,undecided
+26,,Grace,Akosua,Quaye,grace.quaye25@gmail.com,1998-04-08,Female,242714307,Accra,FCT,Abaji,Bernice Mensah,217,admitted
+27,,Ruth,Ayesha,Acheampong,ruth.acheampong26@gmail.com,1998-01-05,Female,249214268,Takoradi,FCT,Abaji,Prosper Baah,339,undecided
+28,,Esther,Kumi,Ofori,esther.ofori27@gmail.com,2001-11-01,Female,249967512,Cape Coast,FCT,Abaji,Samuel Mensah,227,admitted
+29,,Linda,Mantebea,Tetteh,linda.tetteh28@gmail.com,2004-10-25,Female,248150701,Ho,FCT,Gwagwalada,Esther Owusu,212,undecided
+30,,Joyce,Adobea,Nyarko,joyce.nyarko29@gmail.com,1998-03-08,Female,245213766,Ho,FCT,Gwagwalada,Esi Darko,248,undecided
+31,,Mabel,Ama,Frimpong,mabel.frimpong30@gmail.com,2000-03-16,Female,244282749,Kumasi,FCT,Gwagwalada,Kojo Asare,322,admitted
+32,,Prosper,Kwesi,Owusu,prosper.owusu31@gmail.com,1999-04-16,Male,247602575,Tamale,FCT,Gwagwalada,Esi Acheampong,255,undecided
+33,,Daniel,Kwesi,Darko,daniel.darko32@gmail.com,1999-09-13,Male,247805031,Accra,FCT,Gwagwalada,Joyce Ofori,279,undecided
+34,,Prince,Yaw,Antwi,prince.antwi33@gmail.com,2003-03-04,Male,246395103,Kumasi,FCT,Gwagwalada,Yaw Opoku,257,undecided
+35,,Felicia,Efua,Agyeman,felicia.agyeman34@gmail.com,2006-06-28,Female,243908658,Tamale,FCT,Kwali,Bernice Acheampong,191,undecided
+36,,Gladys,Ama,Quaye,gladys.quaye35@gmail.com,2002-01-26,Female,249623353,Accra,FCT,Kwali,Akosua Opoku,161,undecided
+37,,Irene,Esi,Tetteh,irene.tetteh36@gmail.com,1998-03-19,Female,243565046,Takoradi,FCT,Kwali,Eric Owusu,162,admitted
+38,,Eric,Kwaku,Mensah,eric.mensah37@gmail.com,2005-05-03,Male,246158296,Cape Coast,Lagos State,Agege,Samuel Mensah,286,admitted
+39,,Stephen,Kwaku,Tetteh,stephen.tetteh38@gmail.com,2002-09-14,Male,246690546,Kumasi,Lagos State,Agege,Elorm Nyarko,301,undecided
+40,,Benjamin,Kwabena,Baah,benjamin.baah39@gmail.com,2002-11-02,Male,245190635,Cape Coast,Lagos State,Agege,Esi Nyarko,246,undecided
+41,,Mercy,Yaa,Appiah,mercy.appiah40@gmail.com,2003-06-26,Female,247370583,Cape Coast,Lagos State,Agege,Benjamin Appiah,338,admitted
